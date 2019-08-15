@@ -1,0 +1,6 @@
+//Defining the mixin
+
+@mixin dimensions($w, $h){
+  width: $w;
+  height: $h;
+}
